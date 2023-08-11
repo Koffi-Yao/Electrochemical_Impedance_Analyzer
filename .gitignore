@@ -1,0 +1,4 @@
+*.ini
+desktop
+**/.vscode
+**/__pycache__
